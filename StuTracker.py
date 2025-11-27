@@ -1,4 +1,4 @@
-7.import sys
+import sys
 
 if len(sys.argv) == 3:
     held = int(sys.argv[1])
